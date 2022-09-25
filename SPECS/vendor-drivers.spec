@@ -23,12 +23,14 @@ Requires: intel-fm10k
 Requires: intel-i40e
 Requires: intel-ice
 Requires: intel-igb
+Requires: intel-igc
 Requires: intel-ixgbe
 Requires: mellanox-mlnxen
 Requires: microsemi-smartpqi
 Requires: qlogic-fastlinq
 Requires: qlogic-netxtreme2-4.19.0+1-modules
 Requires: qlogic-qla2xxx
+Requires: realtek-r8125
 
 %description
 Virtual package with dependencies on all vendor-provided kernel device drivers.
